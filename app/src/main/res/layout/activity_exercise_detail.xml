@@ -80,7 +80,7 @@
     </LinearLayout>
 
 </ScrollView>
-    <!--menue!-->
+    <!--bottom menue-->
     <include
         android:id="@+id/bottom_menu_container"
         layout="@layout/footer_menu"

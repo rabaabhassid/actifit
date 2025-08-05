@@ -20,5 +20,7 @@ local.properties
 /.idea/assetWizardSettings.xml
 /.idea/render.experimental.xml
 /keystore/
-.idea/compiler.xml
-.idea/misc.xml
+/.idea/compiler.xml
+/.idea/misc.xml
+/.idea/deploymentTargetSelector.xml
+/.idea/runConfigurations.xml
